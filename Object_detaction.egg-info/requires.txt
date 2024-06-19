@@ -1,0 +1,4 @@
+vidgear
+ultralytics
+opencv-python
+streamlit

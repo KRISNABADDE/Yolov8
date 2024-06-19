@@ -1,0 +1,9 @@
+setup.py
+Object_detaction.egg-info/PKG-INFO
+Object_detaction.egg-info/SOURCES.txt
+Object_detaction.egg-info/dependency_links.txt
+Object_detaction.egg-info/requires.txt
+Object_detaction.egg-info/top_level.txt
+src/__init__.py
+src/ObjectDetector/__init__.py
+src/ObjectDetector/detection.py

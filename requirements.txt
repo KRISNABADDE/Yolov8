@@ -1,0 +1,7 @@
+vidgear
+ultralytics
+opencv-python
+streamlit
+yt_dlp
+moviepy
+-e .

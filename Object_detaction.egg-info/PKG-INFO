@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Object-detaction
+Version: 0.0.1
+Author: KRSNA
+Author-email: krisnabadde@gmail.com
+Requires-Dist: vidgear
+Requires-Dist: ultralytics
+Requires-Dist: opencv-python
+Requires-Dist: streamlit
